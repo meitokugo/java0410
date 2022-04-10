@@ -1,0 +1,77 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch StringOptimization",
+            "request": "launch",
+            "mainClass": "StringOptimization",
+            "projectName": "0401_e83f8e3a"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringComparePerformance",
+            "request": "launch",
+            "mainClass": "StringComparePerformance",
+            "projectName": "0401_e83f8e3a"
+        },
+        {
+            "type": "java",
+            "name": "Launch regionMatches",
+            "request": "launch",
+            "mainClass": "regionMatches",
+            "projectName": "0401_e83f8e3a"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringToUpperCaseEmp",
+            "request": "launch",
+            "mainClass": "StringToUpperCaseEmp",
+            "projectName": "0401_e83f8e3a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchStringEmp",
+            "request": "launch",
+            "mainClass": "SearchStringEmp",
+            "projectName": "0401_e83f8e3a"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringReplaceEmp",
+            "request": "launch",
+            "mainClass": "StringReplaceEmp",
+            "projectName": "0401_e83f8e3a"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringCompareEmp",
+            "request": "launch",
+            "mainClass": "StringCompareEmp",
+            "projectName": "0401_e83f8e3a"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "0401_e83f8e3a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "0401_e83f8e3a"
+        }
+    ]
+}
