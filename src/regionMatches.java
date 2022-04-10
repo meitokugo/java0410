@@ -6,6 +6,5 @@ public class regionMatches {
         boolean match2 = first_str.regionMatches(true, 11, second_str, 12, 9);
         System.out.println("qufendaxiaoxie："+match1);
         System.out.println("buqufen:" + match2);
-
     }
 }

@@ -2,8 +2,6 @@ public class StringConcatenate {
     public static void main(String[] args){
         long startTime = System.currentTimeMillis();
         for(int i =0;i<5000;i++){
-            String result = "this is "+ "testing the" + "differencce" +"between"
-            +"string"+"and"+"stringbuffer";
         }
         long endTime = System.currentTimeMillis();
         System.out.println("字符串连接" 
